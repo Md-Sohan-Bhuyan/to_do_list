@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1623456789000,
+        "text": "Complete project",
+        "time": "15:00",
+        "date": "2023-06-15",
+        "priority": "high",
+        "completed": false,
+        "createdAt": "2023-06-10T09:15:00.000Z"
+    },
+    {
+        "id": 1623456789001,
+        "text": "Buy groceries",
+        "time": "18:30",
+        "date": "2023-06-12",
+        "priority": "medium",
+        "completed": true,
+        "createdAt": "2023-06-08T14:20:00.000Z"
+    }
+]
